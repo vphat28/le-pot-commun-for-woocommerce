@@ -1,7 +1,7 @@
 <?php
 /**
 * Plugin Name: Le Pot Commun payment
-* Plugin URI: http://google.com/
+* Plugin URI: https://sundaysea.com/
 * Description: Add Le Pot Commun payment to WooCommerce.
 * Version: 1.0
 * Author: Xavi
